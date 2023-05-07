@@ -18,7 +18,7 @@ O que é uma interface?
 Uma interface é uma estrutura que define um conjunto de propriedades e métodos de um objeto
 
 O que é uma classe?
-
+Uma classe é uma representação de um tipo de objeto. Uma estrutura que descreve o objeto.Uma classe é composta de atributos (características) e métodos (ações).
 
 O que é a herança?
 A herança é um conceito da programação orientada a objetos que permite que uma classe herde as propriedades e métodos de outra classe.
