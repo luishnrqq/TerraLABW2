@@ -1,0 +1,32 @@
+O que exatamente é o Typescript?
+É uma extensão da linguage JavaScript que adciona vários recursos da lingugade orientada a objeto como a criação de interfaces e classes
+
+Descreva os tipos básicos do Typescript.
+ boolean: é usado para representar valores verdadeiros ou falsos.
+ number: é usado para representar valores numéricos, inteiros ou de ponto flutuante.
+ string: é usado para representar valores de texto.
+ null: representa um valor nulo ou ausente.
+ undefined: representa um valor indefinido.
+ object: representa qualquer objeto JavaScript.
+ any: pode representar qualquer tipo de valor.
+ void: é usado para representar ausência de valor.
+ never: é usado para representar situações onde o valor nunca é retornado.
+ array: é usado para representar uma coleção de elementos.
+
+
+O que é uma interface?
+Uma interface é uma estrutura que define um conjunto de propriedades e métodos de um objeto
+
+O que é uma classe?
+
+
+O que é a herança?
+A herança é um conceito da programação orientada a objetos que permite que uma classe herde as propriedades e métodos de outra classe.
+
+Quais as vantagens de usar o Typescript ao invés de somente o Javascript?	
+A compatibilidade que permite que desenvolvedores podem usar bibliotecas e frameworks JavaScript existentes, em seus projetos Typescript.
+
+A tipagem estática na utiliziação do TypeScript fornece a capacidade de definir tipos de dados estáticos que ajudam a identificar erros de digitação e de uso incorreto de variáveis e funções.
+
+
+
